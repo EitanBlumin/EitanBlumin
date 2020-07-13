@@ -15,3 +15,7 @@ You can also find me on Twitter: https://twitter.com/EitanBlumin
 And on Facebook: https://www.facebook.com/EitanBluminBlog
 
 And a few other social networks 😉
+
+![Eitan's github stats](https://github-readme-stats.vercel.app/api?username=EitanBlumin)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EitanBluminGitHub.visitor-badge) (since setting up this badge on 2020-07-13)
