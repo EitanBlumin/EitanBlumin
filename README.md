@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**EitanBlumin/EitanBlumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Eitan Blumin (pronouns: He/Him)
 
-Here are some ideas to get you started:
+I'm a Senior SQL Server Consultant and Team Leader at [Madeira Data Solutions](https://github.com/MadeiraData).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use an RSS reader to subscribe to my GitHub Gists feed, and be notified about new gists before anyone:
+
+https://gist.github.com/EitanBlumin.atom
+
+Check out my blog here: https://www.eitanblumin.com
+
+You can also find me on Twitter: https://twitter.com/EitanBlumin
+
+And on Facebook: https://www.facebook.com/EitanBluminBlog
+
+And a few other social networks 😉
